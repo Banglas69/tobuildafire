@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e053fdcb6eb544143a6c9bbd6ef3697f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58508
+  packageName: Snow VFX
+  packageVersion: 3.1
+  assetPath: Assets/LukePeek/Snow VFX/Prefabs/Universal Render Pipeline/Snow - CinematicBlizzard
+    - ExternalForces.prefab
+  uploadId: 443785

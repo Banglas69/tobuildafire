@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7581d5cebb93731459778db4ab6fa11c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 256054
+  packageName: Freeze/Frost Fullscreen Shader | Fullscreen Effects
+  packageVersion: 2.0.0
+  assetPath: Assets/FullScreenFX/Editor/FullScreenFXAutoInstall.asmdef
+  uploadId: 605909

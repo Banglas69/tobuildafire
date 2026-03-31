@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afa005d86e0503a4da1f9575c9dc27bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58508
+  packageName: Snow VFX
+  packageVersion: 3.1
+  assetPath: Assets/LukePeek/Snow VFX/Prefabs/Universal Render Pipeline/Snow - Heavy
+    - ExternalForces.prefab
+  uploadId: 443785

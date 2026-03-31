@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21594f037ebcf954889d7c3bbe13abe9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58508
+  packageName: Snow VFX
+  packageVersion: 3.1
+  assetPath: Assets/LukePeek/Snow VFX/Prefabs/Universal Render Pipeline/Snow - Medium
+    - NoGround.prefab
+  uploadId: 443785

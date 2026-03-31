@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbd639c6d3cb66c479561ed4926e3698
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58508
+  packageName: Snow VFX
+  packageVersion: 3.1
+  assetPath: Assets/LukePeek/Snow VFX/Prefabs/HD Render Pipeline/Snow - UltraFine
+    - ExternalForces.prefab
+  uploadId: 443785

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c33a77111f3df04db088201eb67a110
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58508
+  packageName: Snow VFX
+  packageVersion: 3.1
+  assetPath: Assets/LukePeek/Snow VFX/Prefabs/HD Render Pipeline/Snow - CinematicBlizzard
+    - NoGround.prefab
+  uploadId: 443785

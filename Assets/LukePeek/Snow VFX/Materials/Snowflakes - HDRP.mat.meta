@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 856e9d11ed30e1743964b9ea60dc354e
+timeCreated: 1458287535
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58508
+  packageName: Snow VFX
+  packageVersion: 3.1
+  assetPath: Assets/LukePeek/Snow VFX/Materials/Snowflakes - HDRP.mat
+  uploadId: 443785

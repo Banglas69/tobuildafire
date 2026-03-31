@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16819fd9d1505d24f9df95ee62f26a6a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58508
+  packageName: Snow VFX
+  packageVersion: 3.1
+  assetPath: Assets/LukePeek/Snow VFX/Prefabs/Universal Render Pipeline/Snow - UltraFine
+    - ExternalForces NoGround.prefab
+  uploadId: 443785

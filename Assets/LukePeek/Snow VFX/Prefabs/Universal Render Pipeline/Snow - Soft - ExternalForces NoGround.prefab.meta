@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dbe98d920d1c7a41bc57d297d170a89
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58508
+  packageName: Snow VFX
+  packageVersion: 3.1
+  assetPath: Assets/LukePeek/Snow VFX/Prefabs/Universal Render Pipeline/Snow - Soft
+    - ExternalForces NoGround.prefab
+  uploadId: 443785

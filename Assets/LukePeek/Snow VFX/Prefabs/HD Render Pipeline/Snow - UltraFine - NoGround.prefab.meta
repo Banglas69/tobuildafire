@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfd52b890b9c34d4ba7fab28d1a534ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58508
+  packageName: Snow VFX
+  packageVersion: 3.1
+  assetPath: Assets/LukePeek/Snow VFX/Prefabs/HD Render Pipeline/Snow - UltraFine
+    - NoGround.prefab
+  uploadId: 443785
